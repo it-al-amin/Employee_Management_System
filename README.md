@@ -3,4 +3,5 @@ Use Sqlite DB Browser
 Database name:employee
 Follow Repository Design pattern
 Also use razor view for frontend view 
+Use EntityFramework for database 
 
